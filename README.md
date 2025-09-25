@@ -163,8 +163,8 @@ This is a personal learning repository, but feel free to:
 
 ## 📚 Resources
 
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [PyImageSearch Blog](https://pyimagesearch.com/)
+- [PyImageSearch University Course](https://pyimagesearch.com/pyimagesearch-university/)
+- [OpenCV Documentation](https://docs.opencv.org/4.x/index.html)
 - [Computer Vision Fundamentals](https://opencv.org/)
 
 ## 📝 Notes
