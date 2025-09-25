@@ -20,13 +20,13 @@ PyImageSearch/
 ## 🎯 Learning Modules
 
 ### Module 01: OpenCV Fundamentals
-- **Day 01**: [Loading and Displaying Images](./01-OpenCV-Fundamentals/Day-01-Loading-Images/) ✅
-- **Day 02**: [Basic Image Operations](./01-OpenCV-Fundamentals/Day-02-Basic-Operations/)
-- **Day 03**: [Drawing Functions and Shapes](./01-OpenCV-Fundamentals/Day-03-Drawing-Functions/)
-- **Day 04**: [Mouse Events and Trackbars](./01-OpenCV-Fundamentals/Day-04-Mouse-Events/)
-- **Day 05**: [Image Transformations](./01-OpenCV-Fundamentals/Day-05-Transformations/)
-- **Day 06**: [Color Spaces and Conversions](./01-OpenCV-Fundamentals/Day-06-Color-Spaces/)
-- **Day 07**: [Project - Interactive Image Viewer](./01-OpenCV-Fundamentals/Day-07-Project-Viewer/)
+- **V 01**: [Loading and Displaying Images](./01-OpenCV-Fundamentals/V-01-Loading-Images/) ✅
+- **V 02**: [Basic Image Operations](./01-OpenCV-Fundamentals/V-02-Basic-Operations/)
+- **V 03**: [Drawing Functions and Shapes](./01-OpenCV-Fundamentals/V-03-Drawing-Functions/)
+- **V 04**: [Mouse Events and Trackbars](./01-OpenCV-Fundamentals/V-04-Mouse-Events/)
+- **V 05**: [Image Transformations](./01-OpenCV-Fundamentals/V-05-Transformations/)
+- **V 06**: [Color Spaces and Conversions](./01-OpenCV-Fundamentals/V-06-Color-Spaces/)
+- **V 07**: [Project - Interactive Image Viewer](./01-OpenCV-Fundamentals/V-07-Project-Viewer/)
 
 ### Module 02: Image Processing
 - **Day 01**: [Filtering and Blurring Techniques](./02-Image-Processing/Day-01-Filtering-Blurring/)
